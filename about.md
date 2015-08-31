@@ -1,11 +1,15 @@
 ---
 layout: page
-title: About
+title: About OpenHome Labs
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Welcome to OpenHome Labs.
+We are busy constructing the new OpenHome Labs website, so please check in for updates and some exciting news about the OpenHome Platform over the coming month.
+In the meantime, feel free to drop us a line at info@openhomelabs.com.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Find out more about the OpenHome technology at [OpenHome.org](http://www.openhome.org/)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+You can also find the source code for OpenHome on [gitHub](https://github.com/openhome)
+
+Enjoy!
