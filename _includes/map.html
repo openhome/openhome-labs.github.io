@@ -16,9 +16,13 @@
             zoom: 17,
 
             mapTypeControl: false,
+            
+            // disable drag and zoom as they screw up interaction on touchscreen/mobile
+            draggable: false,
+            scrollwheel: false,
 
             // The latitude and longitude to center the map (always required)
-            center: new google.maps.LatLng(55.861064, -4.253079),
+            center: new google.maps.LatLng(55.860859, -4.253217),
 
             // How you would like to style the map.
             // This is where you would paste any style found on Snazzy Maps.
@@ -79,12 +83,24 @@
         // Create the Google Map using our element and options defined above
         var map = new google.maps.Map(mapElement, mapOptions);
 
+        var image = {
+            url: '/images/map-marker.png',
+            size: null,
+            // The origin for this image is (0, 0).
+            origin: null,
+            // The anchor for this image is the centre.
+            anchor: null,
+            // The scaled size for this image.
+            scaledSize: new google.maps.Size(48,48)
+        };
+
         // Let's also add a marker while we're at it
         var marker = new google.maps.Marker({
-            position: new google.maps.LatLng(55.861064, -4.253079),
+            position: new google.maps.LatLng(55.860859, -4.253217),
             map: map,
-            title: 'OpenHome',
-            icon: '/images/map-marker.png'
+            title: 'OpenHome Labs',
+            animation: google.maps.Animation.DROP,
+            icon: image
         });
     }
 </script>
