@@ -1,7 +1,7 @@
 ---
 layout: content-sidebar
-title: OpenHomeCo
-header : An Open Standard for Networked Audio Devices in the Home
+title: OpenHome Labs
+header : Helping you make the most of OpenHome Streaming Audio
 group: navigation
 weight: 40
 ---

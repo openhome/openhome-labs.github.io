@@ -1,9 +1,9 @@
 ---
 layout: content-no-sidebar
-title: Subnav Item Two
+title: Subnav Item
 header : An Open Standard for Networked Audio Devices in the Home
-weight: 20
-parent: openhomeco
+weight: 10
+parent: openhomelabs
 ---
 {% include JB/setup %}
 
