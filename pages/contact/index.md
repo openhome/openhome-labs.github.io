@@ -10,7 +10,7 @@ weight: 50
 
 <ul class="vcard layout">
     <li class="layout bd-centered-copy">
-        <h2 class="fn org">OpenHome</h2>
+        <h2 class="fn org">OpenHome Labs</h2>
 
         <ul class="adr layout">
             <li class="street-address">Suite 5/5, Queens House</li>
@@ -32,17 +32,17 @@ weight: 50
     <li>
         <ul class="vcard layout">
             <li class="fn org">
-                <h2 class="organization-name visuallyhidden">OpenHome</h2>
+                <h2 class="organization-name visuallyhidden">OpenHome Labs Ltd.</h2>
                 <h3 class="organization-unit">Sales and Service</h3>
             </li>
-            <li><a href="#" class="email">sales@openhomelabs.com</a></li>
+            <li><a href="#" class="email">info@openhomelabs.com</a></li>
         </ul>
     </li>
 
     <li>
         <ul class="vcard layout">
             <li class="fn org">
-                <h2 class="organization-name visuallyhidden">OpenHome</h2>
+                <h2 class="organization-name visuallyhidden">OpenHome Labs Ltd.</h2>
                 <h3 class="organization-unit">Support</h3>
             </li>
             <li><a href="#" class="email">support@openhomelabs.com</a></li>
