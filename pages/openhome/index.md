@@ -3,7 +3,7 @@ layout: content-no-sidebar
 title: OpenHome
 group: navigation
 header : The Home of Streaming Audio
-weight: 20
+weight: 50
 ---
 {% include JB/setup %}
 

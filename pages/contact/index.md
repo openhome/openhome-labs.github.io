@@ -3,7 +3,7 @@ layout: contact
 title: Contact
 tags: contact
 group: navigation
-weight: 50
+weight: 60
 ---
 {% include JB/setup %}
 

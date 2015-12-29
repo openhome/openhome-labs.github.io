@@ -3,7 +3,7 @@ layout: content-sidebar
 title: Use
 header : Your music, where you want it
 group: navigation
-weight: 10
+weight: 20
 ---
 {% include JB/setup %}
 

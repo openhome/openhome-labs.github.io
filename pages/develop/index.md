@@ -3,7 +3,7 @@ layout: content-sidebar
 title: Develop
 header : An Open Standard for Networked Audio Devices in the Home
 group: navigation
-weight: 20
+weight: 30
 ---
 {% include JB/setup %}
 
