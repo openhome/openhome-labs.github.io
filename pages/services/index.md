@@ -9,7 +9,7 @@ weight: 10
 
 ## Here to help
 
-Whether you are looking for some extra effort to integrate OpenHome into your product, need someone to port OpenHome to your chosen platform or need to get your OpenHome product certiied, OpenHome Labs can help.
+Whether you are looking for some extra effort to integrate OpenHome into your product, get your OpenHome product certified or handle a complete port OpenHome to your chosen platform, OpenHome Labs can help.
 
 With our reference designs and tailored support packages, we can help you get to market faster. We'll help you add the OpenHome features to your platform and take away the hassles of integration.
 
