@@ -1,7 +1,7 @@
 ---
 layout: home
 title: OpenHome
-tags: home
+tags: home dark
 ---
 {% include JB/setup %}
 

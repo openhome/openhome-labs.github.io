@@ -930,18 +930,27 @@ h1, h2, h3, h4 {
       .site-header .inner {
         position: static; } }
 
-.logo {
+.logo{
   display: inline-block;
-  background-image: url(../bootstrap/img/logo-white.svg);
+  background-image: url(../bootstrap/img/logo.svg) ;
   background-repeat: no-repeat;
   background-position: 0 0;
-  width: 140px;
-  height: 25px;
-  background-size: 140px 25px;
+  width: 240px;
+  height: 28px;
+  background-size: 240px 28px;
   position: relative;
   z-index: 8003; }
-  .no-svg .logo {
+  .no-svg .logo, .dark .nav-open .no-svg .logo {
+    background-image: url(../bootstrap/img/logo.png); }
+  .dark .logo{
+    background-image: url(../bootstrap/img/logo-white.svg);}
+  .dark .no-svg .logo {
     background-image: url(../bootstrap/img/logo-white.png); }
+  .nav-open .logo{
+    background-image: url(../bootstrap/img/logo.svg) !important;}
+  .nav-open .no-svg .logo {
+    background-image: url(../bootstrap/img/logo.png) !important; }
+
 
 @media only screen and (max-width: 960px) {
   .main-nav,
