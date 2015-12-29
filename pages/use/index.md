@@ -1,93 +1,24 @@
 ---
 layout: content-sidebar
 title: Use
-header : An Open Standard for Networked Audio Devices in the Home
+header : Your music, where you want it
 group: navigation
 weight: 10
 ---
 {% include JB/setup %}
 
-## Topic One
+> OpenHome Streaming Audio
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis congue orci orci, nec dictum nisl feugiat molestie. Etiam consectetur at erat non lacinia. Donec odio lectus, laoreet eu sapien id, euismod facilisis lacus. Etiam eget euismod libero, sit amet venenatis augue. Cras et risus nisi. Cras vel sapien volutpat, interdum leo aliquet, gravida ex. Nullam convallis eros nec vestibulum ultrices. Aliquam finibus sem arcu, at ultrices arcu porttitor sed.
+We think OpenHome is the most complete, most capable and most accessible platform for top quality digital audio streaming available to developers today.
 
-| Table heading | Table heading | Table heading | Table heading | Table heading |
-|---------------|---------------|---------------|---------------|---------------|
-| Table data    | Table data    | Table data    | Table data    | Table data    |
-| Table data    | Table data    | Table data    | Table data    | Table data    |
-| Table data    | Table data    | Table data    | Table data    | Table data    |
-| Table data    | Table data    | Table data    | Table data    | Table data    |
-| Table data    | Table data    | Table data    | Table data    | Table data    |
+A mature technology deployed in some of the highest quality digital streamers available on the market, OpenHome lets you enjoy audiophile quality digital music streamed from your networked music library, internet radio or premium quality digital streaming services such as Tidal, Qobuz and Spotify.
 
-### Stie augue a vestibulum lacinia
+OpenHome makes it easy to listen to your music all around the home, in perfect synchronisation. Players remember your playlists allowing you to see what's playing, add to the playlists and change audio volume on any device, in any room from any controller.
 
-Fusce pulvinar ipsum ac urna finibus, nec dignissim orci scelerisque. Suspendisse euismod id tellus eu commodo. Morbi rutrum id quam id aliquet. Sed velit massa, vulputate sed eros sed, rutrum maximus nisl. Cras dictum id lectus vitae ornare. Aliquam consequat auctor orci id elementum. Sed molestie augue a vestibulum lacinia. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-
-Fusce pulvinar ipsum ac urna finibus, nec dignissim orci scelerisque. Suspendisse euismod id tellus eu commodo. Morbi rutrum id quam id aliquet. Sed velit massa, vulputate sed eros sed, rutrum maximus nisl. Cras dictum id lectus vitae ornare. Aliquam consequat auctor orci id elementum. Sed molestie augue a vestibulum lacinia. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-
-Fusce pulvinar ipsum ac urna finibus, nec dignissim orci scelerisque. Suspendisse euismod id tellus eu commodo. Morbi rutrum id quam id aliquet. Sed velit massa, vulputate sed eros sed, rutrum maximus nisl. Cras dictum id lectus vitae ornare. Aliquam consequat auctor orci id elementum. Sed molestie augue a vestibulum lacinia. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-
-- This is a list item
-- This is a list item
-- [This is a linked list item](https://www.google.com)
-- This is a list item
-
-### Stie augue a vestibulum lacinia
-
-Fusce pulvinar ipsum ac urna finibus, nec dignissim orci scelerisque. Suspendisse euismod id tellus eu commodo. Morbi rutrum id quam id aliquet. Sed velit massa, vulputate sed eros sed, rutrum maximus nisl. Cras dictum id lectus vitae ornare. Aliquam consequat auctor orci id elementum. Sed molestie augue a vestibulum lacinia. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-
-![alt text](/images/image-placeholder.jpg "Logo Title Text 1")
-
-### Stie augue a vestibulum lacinia
-
-Fusce pulvinar ipsum ac urna finibus, nec dignissim orci scelerisque. Suspendisse euismod id tellus eu commodo. Morbi rutrum id quam id aliquet. Sed velit massa, vulputate sed eros sed, rutrum maximus nisl. Cras dictum id lectus vitae ornare. Aliquam consequat auctor orci id elementum. Sed molestie augue a vestibulum lacinia. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-
-```python
-s = "Python syntax highlighting"
-print s
-```
-
-### Stie augue a vestibulum lacinia
-
-Fusce pulvinar ipsum ac urna finibus, nec dignissim orci scelerisque. Suspendisse euismod id tellus eu commodo. Morbi rutrum id quam id aliquet. Sed velit massa, vulputate sed eros sed, rutrum maximus nisl. Cras dictum id lectus vitae ornare. Aliquam consequat auctor orci id elementum. Sed molestie augue a vestibulum lacinia. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-
-> Imagine a networked music system was as easy to use as a CD or LP
-
-### Stie augue a vestibulum lacinia
-
-<ul class="two-col-list">
-    <li>
-        <a href="#">This is a document</a>
-
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eu orci suscipit, viverra eros id, consectetur velit.</p>
-    </li>
-
-    <li>
-        <a href="#">This is a document</a>
-
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eu orci suscipit, viverra eros id, consectetur velit.</p>
-    </li>
-
-    <li>
-        <a href="#">This is a document</a>
-
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eu orci suscipit, viverra eros id, consectetur velit.</p>
-    </li>
-
-    <li>
-        <a href="#">This is a document</a>
-
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eu orci suscipit, viverra eros id, consectetur velit.</p>
-    </li>
-
-    <li>
-        <a href="#">This is a document</a>
-
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eu orci suscipit, viverra eros id, consectetur velit.</p>
-    </li>
-</ul>
+With gapless playback, support for a wide range of audio formats and up to 192kHz audio, OpenHome brings you high quality audio streaming in the most flexible and accessible way. It is an open technology based around interoperability allowing you to mix and match your favourite devices from different manufacturers whilst retaining all the functionality and quality you want from your multi-room setup.
 
 
-### Stie augue a vestibulum lacinia
+## Imagine your music anywhere in the home - high quality, beautifully synchronised, on any device.
 
-Fusce pulvinar ipsum ac urna finibus, nec dignissim orci scelerisque. Suspendisse euismod id tellus eu commodo. Morbi rutrum id quam id aliquet. Sed velit massa, vulputate sed eros sed, rutrum maximus nisl. Cras dictum id lectus vitae ornare. Aliquam consequat auctor orci id elementum. Sed molestie augue a vestibulum lacinia. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+## Try OpenHome now.
+
