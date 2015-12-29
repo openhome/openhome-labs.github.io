@@ -14,8 +14,8 @@
    version="1.1"
    id="svg2"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="logo.svg"
-   inkscape:export-filename="C:\Users\Peter\dev\openhome-labs.github.io\assets\themes\bootstrap-3\bootstrap\img\logo.png"
+   sodipodi:docname="logo-white.svg"
+   inkscape:export-filename="C:\Users\Peter\dev\openhome-labs.github.io\assets\themes\bootstrap-3\bootstrap\img\logo-white.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <metadata
@@ -75,7 +75,7 @@
          id="g3815">
         <path
            sodipodi:type="arc"
-           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.20900001000000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           style="fill:#00b4c8;fill-opacity:1;stroke:#ffffff;stroke-width:0.20900001000000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
            id="path3839"
            sodipodi:cx="186.50349"
            sodipodi:cy="25.93001"
@@ -141,7 +141,7 @@
         </g>
         <text
            xml:space="preserve"
-           style="font-size:27.49990654000000100px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           style="font-size:27.49990654000000100px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
            x="228.98938"
            y="21.346586"
            id="text3035"
@@ -150,7 +150,7 @@
              id="tspan3037"
              x="228.98938"
              y="21.346586"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Segoe WP;-inkscape-font-specification:Segoe WP Bold">LABS</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Segoe WP;-inkscape-font-specification:Segoe WP Bold">LABS</tspan></text>
       </g>
     </g>
   </g>
