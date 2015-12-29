@@ -932,7 +932,7 @@ h1, h2, h3, h4 {
 
 .logo {
   display: inline-block;
-  background-image: url(../bootstrap/img/logo.svg);
+  background-image: url(../bootstrap/img/logo-white.svg);
   background-repeat: no-repeat;
   background-position: 0 0;
   width: 140px;
@@ -941,7 +941,7 @@ h1, h2, h3, h4 {
   position: relative;
   z-index: 8003; }
   .no-svg .logo {
-    background-image: url(../bootstrap/img/logo.png); }
+    background-image: url(../bootstrap/img/logo-white.png); }
 
 @media only screen and (max-width: 960px) {
   .main-nav,
@@ -1067,7 +1067,7 @@ h1, h2, h3, h4 {
     left: 0;
     bottom: 40px;
     font-size: 1.714285714em;
-    font-weight: normal;
+    font-weight: bold;
     color: white;
     margin-bottom: 0;
     line-height: 1em; }
@@ -1182,6 +1182,7 @@ h1, h2, h3, h4 {
     width: 61.9047619%;
     margin: 0 auto;
     font-size: 3.428571429em;
+    color: white;
     line-height: 1.208333333em;
     padding: 3.125em 0;
     margin-bottom: 0; }
