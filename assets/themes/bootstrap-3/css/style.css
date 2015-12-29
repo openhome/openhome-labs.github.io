@@ -935,9 +935,9 @@ h1, h2, h3, h4 {
   background-image: url(../bootstrap/img/logo.svg) ;
   background-repeat: no-repeat;
   background-position: 0 0;
-  width: 240px;
-  height: 28px;
-  background-size: 240px 28px;
+  width: 247px;
+  height: 88px;
+  background-size: 247px 88px;
   position: relative;
   z-index: 8003; }
   .no-svg .logo, .dark .nav-open .no-svg .logo {
