@@ -15,3 +15,6 @@ The OpenHome codebase is inherently cross-platform and has been developed in por
 
 Check out our [Overview](/pages/develop/overview.html) for a summary of the platform highlights, then get yourself up and running by following our straightforward [Getting Started Guide](/pages/develop/source.html)
 
+We will be expanding our developer portal over the coming months, but in the meantime you can access the existing [Wiki](http://wiki.openhome.org) for information on the underlying OpenHome technology.
+
+To join in discussions on OpenHome or post questions to community support, please take a look at our [User Forums](http://forums.openhome.org)
