@@ -10,7 +10,7 @@ parent: use
 > Download OpenHome Player for Ubuntu
 
 **OpenHome Player for Ubuntu** is an inobtrusive media streamer which sits in your system menu allowing you to stream high quality digital audio from your network servers and internet streaming services to your Ubuntu PC.
-The application runs on Ubunut in GUI mode as a GTK application.
+The application runs on Ubunutu in GUI mode as a GTK application.
 
 # Installation instructions
 
