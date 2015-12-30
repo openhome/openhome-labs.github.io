@@ -25,8 +25,8 @@ The platform is built from a number of repositories covering build tools, networ
 ---------------------------
 Before building, clone ohdevtools (https://github.com/openhome/ohdevtools.git) into the same parent directory as ohPlayer.
 
-```[zak]: git clone https://github.com/openhome/ohdevtools.git
-[zak]: git clone https://github.com/openhome/ohPlayer.git
+```git clone https://github.com/openhome/ohdevtools.git
+git clone https://github.com/openhome/ohPlayer.git
 ```
 
 ### Using Pre-built Components
@@ -35,11 +35,11 @@ OpenHome can fetch pre-built dependencies for ohNet and ohPipeline from the Open
 
 To fetch dependencies, run
 
-```[zak]: go fetch --all```
+```go fetch --all```
 
 or
 
-```[zak]: go fetch --all --debug```
+```go fetch --all --debug```
 
 depending on your build requirements.
 App dependencies will be downloaded to the ohPlayer/dependencies directory.
