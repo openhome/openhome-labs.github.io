@@ -82,7 +82,7 @@ sudo update-alternatives --install /usr/bin/g++ g++ /usr/bin/g++-4.8 50```
 
 install audio and UI dependencies
 
-```sudo apt-get install gtk+-3-dev libnotify-dev notify-osd libasound2-dev```
+```sudo apt-get install gtk+-3-dev libnotify-dev notify-osd libavutil-dev libavformat-dev libavresample-dev libappindicator3-dev libasound2-dev```
 
 install package maker
 
