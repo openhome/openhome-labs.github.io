@@ -18,7 +18,7 @@ The application runs on Windows Vista or later.
 
 ![](/images/download.png)
 
-<a href="http://builds.openhome.org/releases/openhome/win/current.exe">Download __OpenHome Player for Windows__</a>
+<a href="#">Coming soon: Download __OpenHome Player for Windows__</a>
 </div>
 
 The application is distributed as a Windows Installer package. Simply run the installer and select an install location. Once the installation is complete, you should see the OpenHome Player icon on your desktop. Double-click the icon to start the player; the application will run in as a 'system tray' task.
