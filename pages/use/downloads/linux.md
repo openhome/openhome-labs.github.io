@@ -48,7 +48,7 @@ The platform contains a number of repositories covering build tools, networking,
 
 
 # Requirements
-- Ubuntu 12.x
+- Ubuntu 14.04 LTS
 - 20MB free storage space
 - 16MB RAM
 
