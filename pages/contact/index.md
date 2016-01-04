@@ -45,7 +45,7 @@ weight: 60
                 <h2 class="organization-name visuallyhidden">OpenHome Labs Ltd.</h2>
                 <h3 class="organization-unit">Support</h3>
             </li>
-            <li><a href="#" class="email">support@openhomelabs.com</a></li>
+            <li><a href="mailto:support@openhomelabs.com" class="email">support@openhomelabs.com</a></li>
         </ul>
     </li>
 </ul>
