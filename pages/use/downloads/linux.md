@@ -18,7 +18,7 @@ The application runs on Ubuntu in GUI mode as a GTK application.
 
 ![](/images/download.png)
 
-<a href="http://builds.openhome.org/releases/openhome/linux/openhome-player-1.0.1_amd64.sh">Download __OpenHome Player for Ubuntu__</a>
+<a href="http://builds.openhome.org/releases/openhome/linux/openhome-player-1.0.1_amd64.sh" download>Download __OpenHome Player for Ubuntu__</a>
 </div>
 
 If you prefer to download the Player via a terminal, simply type the following into your terminal window:

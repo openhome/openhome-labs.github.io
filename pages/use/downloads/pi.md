@@ -18,7 +18,7 @@ The application runs on Raspberry Pi in GUI mode as a GTK application.
 
 ![](/images/download.png)
 
-<a href="http://builds.openhome.org/releases/openhome/pi/openhome-player-1.0.1_armhf.sh">Download __OpenHome Player for Raspberry Pi__</a>
+<a href="http://builds.openhome.org/releases/openhome/pi/openhome-player-1.0.1_armhf.sh" download>Download __OpenHome Player for Raspberry Pi__</a>
 </div>
 
 If you prefer to download the Player via a terminal, simply type the following into your terminal window:
