@@ -18,7 +18,7 @@ The application runs on OSX Mountain Lion or later.
 
 ![](/images/download.png)
 
-<a href="#">Coming soon! Download __OpenHome Player for OSX__</a>
+<a href="http://builds.openhome.org/releases/openhome/mac/OpenHomePlayer.pkg">Download __OpenHome Player for OSX__</a>
 </div>
 
 The application is distributed as an OSX package. Simply run the installer and select an install location. Once the installation is complete, you should see the OpenHome Player icon on your desktop. Double-click the icon to start the player; the application will run in as a 'system menu' task.
@@ -29,9 +29,9 @@ To stream audio to the Player, use your OpenHome controller (eg Linn Kazoo or Bu
 
 The platform contains a number of repositories covering build tools, networking, audio pipeline and reference applications. These repositories are described in the table below.
 
-| Feature | Description | 
+| Feature | Description |
 |---------------|---------------|
-| Audio formats    | FLAC, OGG Vorbis    |
+| Audio formats    | FLAC, ALAC, WAV, Vorbis, WMA |
 | Audio quality    | 24-bit, up to 192kHz    |
 | Internet Radio    | TuneIn* (*coming soon - requires MP3/AAC support)    |
 | Streaming Services    | Qobuz*, Tidal* (*coming soon - requires MP3 support)    |
@@ -43,5 +43,3 @@ The platform contains a number of repositories covering build tools, networking,
 - OSX Mountain Lion or later
 - 10MB free disk space
 - 16MB RAM
-
-

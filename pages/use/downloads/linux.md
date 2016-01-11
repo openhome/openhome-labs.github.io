@@ -18,12 +18,12 @@ The application runs on Ubuntu in GUI mode as a GTK application.
 
 ![](/images/download.png)
 
-<a href="http://builds.openhome.org/releases/openhome/linux/openhome-player-1.0.0_amd64.sh">Download __OpenHome Player for Ubuntu__</a>
+<a href="http://builds.openhome.org/releases/openhome/linux/openhome-player-1.0.1_amd64.sh">Download __OpenHome Player for Ubuntu__</a>
 </div>
 
 If you prefer to download the Player via a terminal, simply type the following into your terminal window:
 
-```wget http://builds.openhome.org/releases/openhome/linux/openhome-player-1.0.0_amd64.sh
+```wget http://builds.openhome.org/releases/openhome/linux/openhome-player-1.0.1_amd64.sh
 ```
 
 The application is distributed as a Linux shell executable which handles installation of the OpenHome Player and all dependencies to get you up and running with minimum effort. Simply download the script, open a terminal and run the script. Once the installation is complete, you can run the Player from the commandline by typing:
@@ -37,9 +37,9 @@ To stream audio to the Player, use your OpenHome controller (eg Linn Kazoo or Bu
 
 The platform contains a number of repositories covering build tools, networking, audio pipeline and reference applications. These repositories are described in the table below.
 
-| Feature | Description | 
+| Feature | Description |
 |---------------|---------------|
-| Audio formats    | MP3, AAC, WAV, FLAC, OGG Vorbis    |
+| Audio formats    | MP3, AAC, WMA, FLAC, ALAC, OGG Vorbis |
 | Audio quality    | 24-bit, up to 192kHz    |
 | Internet Radio    | TuneIn    |
 | Streaming Services    | Qobuz, Tidal |
@@ -51,4 +51,3 @@ The platform contains a number of repositories covering build tools, networking,
 - Ubuntu 14.04 LTS
 - 20MB free storage space
 - 16MB RAM
-
