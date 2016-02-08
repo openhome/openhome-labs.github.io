@@ -18,7 +18,7 @@ The application runs on OSX Mountain Lion or later.
 
 ![](/images/download.png)
 
-<a href="http://builds.openhome.org/releases/openhome/mac/OpenHomePlayer-0.9.2.pkg">Download __OpenHome Player 0.9.2 for OSX__</a>
+<a href="http://builds.openhome.org/releases/openhome/macplayer.pkg" download>Download __OpenHome Player for OSX__</a>
 </div>
 
 The application is distributed as an OSX package. Simply run the installer and select an install location. Once the installation is complete, you should see the OpenHome Player icon on your desktop. Double-click the icon to start the player; the application will run in as a 'system menu' task.

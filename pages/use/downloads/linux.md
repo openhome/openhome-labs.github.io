@@ -18,12 +18,12 @@ The application runs on Ubuntu in GUI mode as a GTK application.
 
 ![](/images/download.png)
 
-<a href="http://builds.openhome.org/releases/openhome/linux/openhome-player-1.0.2_amd64.sh" download>Download __OpenHome Player for Ubuntu__</a>
+<a href="http://builds.openhome.org/releases/openhome/linuxplayer.sh" download>Download __OpenHome Player for Ubuntu__</a>
 </div>
 
 If you prefer to download the Player via a terminal, simply type the following into your terminal window:
 
-```wget http://builds.openhome.org/releases/openhome/linux/openhome-player-1.0.2_amd64.sh
+```wget http://builds.openhome.org/releases/openhome/linuxplayer.sh
 ```
 
 The application is distributed as a Linux shell executable which handles installation of the OpenHome Player and all dependencies to get you up and running with minimum effort. Simply download the script, open a terminal and run the script. Once the installation is complete, you can run the Player from the commandline by typing:
