@@ -25,6 +25,10 @@ The application is distributed as an OSX package. Simply run the installer and s
 
 To stream audio to the Player, use your OpenHome controller (eg Linn Kazoo or Bubble DS) to find your Player on the network. The player will use the same name as the Mac it is running on. Select the Player as the current renderer, choose some tracks to play and you're ready to go!
 
+# Licencing
+
+The OpenHome evaluation players are provided free-of-charge for personal or evaluation purposes on an 'as-is' basis. OpenHome provides no warranty, either express or implied, and accepts no liability for any damage or costs arising from its use. Any organisation wishing to use or distribute the OpenHome players commercially must contact OpenHome Labs Limited (sales@openhomelabs.com) for a commercial licence.
+
 # Features
 
 The platform contains a number of repositories covering build tools, networking, audio pipeline and reference applications. These repositories are described in the table below.
