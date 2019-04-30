@@ -13,6 +13,6 @@ Whether you are looking for some extra effort to integrate OpenHome into your pr
 
 With our reference designs and tailored support packages, we can help you get to market faster. We'll help you add the OpenHome features to your platform and take away the hassles of integration.
 
-Check back soon for details of our support and engineering packages, or [email us](mailto:info@openhomelabs.com) for details.
+Check back soon for details of our support and engineering packages, or [email us](mailto:helpline@linn.co.uk) for details.
 
 

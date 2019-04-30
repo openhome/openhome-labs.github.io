@@ -22,7 +22,7 @@ weight: 60
     <li>
         <ul class="other inline-list space-separated-list layout">
             <li class="tel phone"><span class="type visuallyhidden">Work</span>0141 356 0192</li>
-            <li><a href="mailto:info@openhomelabs.com" class="email">info@openhomelabs.com</a></li>
+            <li><a href="mailto:helpline@linn.co.uk" class="email">helpline@linn.co.uk</a></li>
         </ul>
     </li>
 </ul>
@@ -35,7 +35,7 @@ weight: 60
                 <h2 class="organization-name visuallyhidden">OpenHome Labs Ltd.</h2>
                 <h3 class="organization-unit">Sales and Service</h3>
             </li>
-            <li><a href="mailto:info@openhomelabs.com" class="email">info@openhomelabs.com</a></li>
+            <li><a href="mailto:helpline@linn.co.uk" class="email">helpline@linn.co.uk</a></li>
         </ul>
     </li>
 

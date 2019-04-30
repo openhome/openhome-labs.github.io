@@ -12,13 +12,13 @@ title : OpenHome Labs
 tagline: The Open Platform for Multi-Room Streaming Audio
 author :
   name : OpenHome Labs
-  email : info@openhomelabs.com
+  email : helpline@linn.co.uk
   github : openhome
   twitter : openhome
   feedburner : openhome
 
 # Site settings
-email: info@openhomelabs.com
+email: helpline@linn.co.uk
 description: > # this means to ignore newlines until "baseurl:"
   OpenHome Labs is the home of the groundbreaking distributed
   audio platform, OpenHome (tm).
